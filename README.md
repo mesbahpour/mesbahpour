@@ -2,7 +2,7 @@
 
 <h3>👩🏻‍💻About me</h3>
 
-- ⚡ I’m a Junior front-end developer who loves to share my knowledge and learn new things in web development.
+- ⚡ I’m a front-end developer who loves to share my knowledge and learn new things in web development.
 - 🚀 I’m currently working on machine learning research project.
 - 🌱 I’m addicted to learning and growing every day.
 
